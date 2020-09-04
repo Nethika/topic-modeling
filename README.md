@@ -14,7 +14,7 @@ R packages:slam, NLP, tm, SnowballC, LDAvis, servr, topicmodels
 Corpus created using Thomson Reuters "Deals Today" newsletters.
 ## Visualization:
 
-<img src="LDAvis.png" width="30%" height="30%">
+<img src="LDAvis.png" width="70%" height="70%">
 
 LDAvis Creates a JSON object to feed the javascript visualization.
 
