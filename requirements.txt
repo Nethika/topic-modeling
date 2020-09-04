@@ -1,0 +1,8 @@
+#install.packages("slam")
+#install.packages("slam", repos=c("http://rstudio.org/_packages", "http://cran.rstudio.com"))
+#install.packages("NLP")
+#install.packages("tm")
+#install.packages("SnowballC")
+#install.packages("LDAvis")
+#install.packages("servr")
+#install.packages("topicmodels")
